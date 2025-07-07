@@ -6,3 +6,4 @@ pillow
 yt-dlp
 cloudinary
 google-images-search
+flask
